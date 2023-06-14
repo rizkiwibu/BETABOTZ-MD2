@@ -1,7 +1,9 @@
 let handler = async (m, { conn }) => {
 let ye = `@${m.sender.split`@`[0]}`
 let esce = `
-Hai ${ye} Bot Ini Menggunakan Script :\n\n• https://github.com/BOTCAHX/RTXZY-MD ( Original Script )\n\n• https://github.com/ERLANRAHMAT/Betabotz-Md2 ( Recode Full My Api )
+Hai ${ye} Bot Ini Menggunakan Script :\n\n• https://github.com/BOTCAHX/RTXZY-MD ( Original Script )\n\n• https://github.com/ERLANRAHMAT/Betabotz-Md2 ( Recode Full My Api )\n\n• https://github.com/rizkiwibu/BETABOTZ-MD2 ( 
+iky kangcopypaste)
+`
 `
 m.reply(esce)
 }
